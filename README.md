@@ -32,9 +32,7 @@ Prerrequisitos
 Java 11 o superior
 Maven 3.6 o superior
 Una base de datos SQL (PostgreSQL, MySQL, MariaDB, SQL Server, H2)
-
 Clonar el Repositorio
-git clone https://github.com/tu-usuario/literAlura.git
 Dependencias
 Asegúrate de agregar las dependencias necesarias en tu archivo pom.xml para la base de datos que deseas usar.
 
