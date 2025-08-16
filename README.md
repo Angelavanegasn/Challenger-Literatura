@@ -1,4 +1,5 @@
 Bienvenido al proyecto literAlura, una aplicación Java basada en Spring Boot que te permite gestionar libros y autores de manera eficiente y fácil. 🎉
+<br>
 <img width="192" height="100" alt="image" src="https://github.com/user-attachments/assets/2915a97e-1cb0-4989-86e2-a3c025b473b7" />
 
 Descripción del Proyecto 📚
